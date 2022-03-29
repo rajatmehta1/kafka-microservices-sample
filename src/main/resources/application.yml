@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: STM-Microservices-Kafka-Sample
+server:
+  port: 9095

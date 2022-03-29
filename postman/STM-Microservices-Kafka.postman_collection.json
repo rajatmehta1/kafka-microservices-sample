@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "60b81e5f-6f03-44f0-9a4b-476bafbfad2d",
+		"name": "STM-Microservices-Kafka",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
