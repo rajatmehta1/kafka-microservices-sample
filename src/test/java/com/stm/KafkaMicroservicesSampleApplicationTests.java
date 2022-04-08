@@ -1,12 +1,12 @@
 package com.stm;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class KafkaMicroservicesSampleApplicationTests {
 
-    @Test
+//    @Test
     void contextLoads() {
     }
 

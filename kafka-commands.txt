@@ -1,0 +1,7 @@
+# List the kafka topics
+kafka-topics.sh --bootstrap-server localhost:9092 --list
+
+#Create a new topic on kafka
+kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1  --topic stm_orders
+
+kafka-console-consumer.sh --topic stm_orders --from-beginning --bootstrap-server localhost:9092

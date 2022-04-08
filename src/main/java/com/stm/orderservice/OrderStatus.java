@@ -1,5 +1,5 @@
 package com.stm.orderservice;
 
 public enum OrderStatus {
-    PLACED, IN_PROCESS, FULFILLED
+    PLACED, NEW_ORDER, IN_PROCESS, FULFILLED
 }
